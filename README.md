@@ -15,12 +15,13 @@ real-world noise (also known as blind noise)
 ## Video Quality Metrics
 
 1. full-reference (FR) require full access to the reference video. 
-Signal-to-Noise Ratio (SNR)
-Peak Signal-to-Noise Ratio (PSNR) 
-Mean Squared Error (MSE), Structural SIMilarity (SSIM) 
-Visual Information Fidelity (VIF) 
-VSNR 
-Video Quality Metric tools (VQM)
+
+- Signal-to-Noise Ratio (SNR)
+- Peak Signal-to-Noise Ratio (PSNR) 
+- Mean Squared Error (MSE), Structural SIMilarity (SSIM) 
+- Visual Information Fidelity (VIF) 
+- VSNR 
+- Video Quality Metric tools (VQM)
 
 2. reduced-reference (RR) techniques which need a set of coarse features extracted from the reference video.
 
