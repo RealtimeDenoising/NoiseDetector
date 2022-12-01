@@ -1,4 +1,6 @@
-# Detect noise levels in images 
+# Noise Detector 
+
+## Detect noise levels in images 
 
 - Gaussian Noise - Noise having PDF equal to the normal distribution. 
 i.e. the pixel values that these noises can take are Gaussian distributed.
